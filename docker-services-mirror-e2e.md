@@ -1,6 +1,6 @@
 ## How to run mirrornode with local services node
 
-- clone this `docker-services-mirror-e2e` branch of [tannerjfco/hedera-mirror-node](https://github.com/tannerjfco/hedera-mirror-node) to a local directory such as ~/hashgraph (this will be the path used through this guide)
+- clone this `docker-services-mirror-e2e` branch of [beeradb/hedera-mirror-node](https://github.com/beeradb/hedera-mirror-node) to a local directory such as ~/hashgraph (this will be the path used through this guide)
 - clone this `docker-services-mirror-e2e` branch of [tannerjfco/hedera-services](https://github.com/tannerjfco/hedera-services) to the same local directory as mirror node
 
 directory structure should be like the following
